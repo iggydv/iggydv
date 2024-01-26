@@ -49,3 +49,5 @@
 [![Iggy's GitHub stats](https://github-readme-stats.vercel.app/api?username=iggydv&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 _Does not reflect private repo stats_ *
+
+![Snake animation](https://github.com/iggydv/iggydv/blob/output/github-contribution-grid-snake.svg)
