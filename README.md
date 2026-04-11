@@ -11,12 +11,9 @@
 
 ## About me
 
-* 🎶 My name is Ignatius, but you can call me _Iggy_
-* 🧛 Pronouns: he/him
-* 🌱 Peer-to-peer systems, distributed systems, storage system & database design and event-driven architectures are my thing
-* 🤝 Looking to collaborate on more **Golang** projects and anything Web3
-* ❤️ I love cycling, running and swimming and finding adventure in every day life
-* ⚡ Fun fact: I'm in permanent beta.
+* My name is Ignatius, but you can call me _Iggy_
+* Peer-to-peer systems, distributed systems, storage system & database design and event-driven architectures are my thing
+* Looking to collaborate on more **Golang** projects and anything Web3
 
 ## Languages
 
